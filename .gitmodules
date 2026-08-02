@@ -5,3 +5,6 @@
 [submodule "ISO6976.2016"]
 	path = ISO6976.2016
 	url = https://github.com/ruedigerforster/iso_6976
+[submodule "appac"]
+	path = appac
+	url = https://github.com/cran/appac
